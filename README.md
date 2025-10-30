@@ -28,8 +28,8 @@ xlsx_to_xlsb/
 
 1. 在文件资源管理器中找到要转换的Excel文件
 2. 右键点击文件，选择相应的转换选项：
-   - "转换为XLSB" - 将.xlsx文件转换为.xlsb格式
-   - "转换为XLSX" - 将.xlsb文件转换为.xlsx格式
+   - "to xlsb" - 将.xlsx文件转换为.xlsb格式
+   - "to xlsx" - 将.xlsb文件转换为.xlsx格式
 3. 转换后的文件将保存在同一目录下
 
 ### 卸载
