@@ -20,7 +20,7 @@ xlsx_to_xlsb/
 
 ### 安装
 
-1. 将zip包解压在一个目录.
+1. 在[releases](https://github.com/mingti/xlsx_to_from_xlsb_win/releases/latest)界面,下载`xlsx_to_from_xlsb_win.zip`包,解压在您的软件安装目录.
 1. 使用管理员权限运行 `install.bat` 文件
 2. 等待安装完成，您将在右键菜单中看到转换选项
 
